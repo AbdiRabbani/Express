@@ -1,0 +1,19 @@
+{
+  "name": "install_express",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js",
+    "start-sever": "node index.js"
+  },
+  "keywords": [],
+  "author": "Bardys Dev",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
