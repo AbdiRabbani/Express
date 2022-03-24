@@ -1,0 +1,4 @@
+npm init -y
+npm install express --save-dev
+npm install express nodemon --save-dev
+npm install express body-parser dotenv --save
